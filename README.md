@@ -36,9 +36,3 @@ I'd like to thank Kaggle for providing this exciting competition and the data sc
 
 Feel free to explore the code and analysis in the Jupyter Notebook and provide any feedback or suggestions.
 
-For questions or collaboration, you can reach out to me on Kaggle or GitHub.
-
-Happy coding and data science!
-
-[LinkedIn](https://www.linkedin.com/in/yutong-xie-b5a8a6233/)
-[GitHub](https://github.com/yutongxie58)
